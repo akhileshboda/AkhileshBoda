@@ -1,5 +1,6 @@
 public class errorHandling
 {
+    // -- FIELDS --
     public static boolean checkGrade(double grade) {
         if (grade > 0 && grade < 100)
             return true;
