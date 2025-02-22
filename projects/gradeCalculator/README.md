@@ -1,0 +1,1 @@
+This is an intro and diary into the development of this project
