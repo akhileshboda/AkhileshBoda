@@ -1,5 +1,5 @@
 # Akhilesh's IT Portfolio | Cybersecurity, Software, Systems Development
-Hi, and welcome to my repository! 👋
+Hi, and welcome to my repository!
 
 **About Me**
 
@@ -21,9 +21,7 @@ I am also passionate about agile methodologies, software architecture, and devel
 
 Outside of technology, I am an active competitive natural bodybuilder, with achievements including state-level contention and a top-3 national placement. This discipline has instilled in me a strong work ethic, resilience, and a goal-oriented mindset, qualities I bring to both my personal and professional endeavors.
 
-**Let’s Connect!**
-
-I’m actively seeking an internship opportunity where I can contribute my technical expertise, collaborate with like-minded professionals, and continue growing as a future leader in IT. Feel free to check out my projects and reach out!
+Thank you for taking interest in my repository and if you would like to reach out or connect,
 
 📧 Email: akhileshboda@outlook.com
 🔗 LinkedIn: www.linkedin.com/in/akhileshboda
