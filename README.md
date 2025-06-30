@@ -1,4 +1,4 @@
-# Akhilesh's IT Portfolio | Cybersecurity, Web/Mobile Applications Development, Project Management
+# Akhilesh's IT Portfolio | Cybersecurity, Mobile Applications/Web Development, Project Management
 Hi, and welcome to my repository!
 
 ## Profile
