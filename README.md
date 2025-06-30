@@ -5,7 +5,7 @@ Hi, and welcome to my repository!
 
 I’m a passionate Information Technology student at Monash University, majoring in Cybersecurity with minors in Web and Mobile Applications Development. My journey in technology has been shaped by a strong enthusiasm for software development, cybersecurity, and project management, and I aspire to lead innovative teams as a Project Manager and/or Scrum Master in the future.
 
-Since graduating from high school in 2018, I’ve explored various aspects of IT, honing my technical skills while embracing the principles of agile development and secure systems design. In 2025, I aim to further specialise in cybersecurity while working on software development projects that challenge and expand my skill set.
+Since undetaking my studies in 2023, I have been privileged to explore and immerse myself in the various domains of IT, allowing me to cultivate my technical skills while igniting my passion in agile development and secure systems design. In 2025, I aim to further hone my abilities in cybersecurity while working on software development projects that challenge and expand my skillset.
 
 ## Projects & Learning
 
