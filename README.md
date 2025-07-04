@@ -16,6 +16,7 @@ I am constantly building and refining my technical abilities through both course
 ### Upcoming
 - **NutrTrack v2 - Advanced** *(in progress)*  - Extends functionality upon NutriTrack v1 by refactoring into MVVM, integrating Google Gemini and integrateing a Clinican view.
 - **WAM Calculator and Course Planner (AI Powered)** - A personalised Android study companion app that tracks university performance (WAM/GPA) and offers AI-powered unit recommendations aligned with your academic interests and career goals.
+- **Personal Portfolio Website** - A full-stack personal portfolio website built with the MERN stack to showcase my projects, resume, and development skills as an IT student.
 
 More projects coming soon!
 
