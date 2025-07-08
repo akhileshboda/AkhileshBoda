@@ -1,21 +1,24 @@
-# Akhilesh's IT Portfolio | Cybersecurity, Web/Mobile Applications Development, Project Management
+# Akhilesh's IT Portfolio | Cybersecurity, Mobile Applications/Web Development, Project Management
 Hi, and welcome to my repository!
 
 ## Profile
 
 I’m a passionate Information Technology student at Monash University, majoring in Cybersecurity with minors in Web and Mobile Applications Development. My journey in technology has been shaped by a strong enthusiasm for software development, cybersecurity, and project management, and I aspire to lead innovative teams as a Project Manager and/or Scrum Master in the future.
 
-Since graduating from high school in 2018, I’ve explored various aspects of IT, honing my technical skills while embracing the principles of agile development and secure systems design. In 2025, I aim to further specialise in cybersecurity while working on software development projects that challenge and expand my skill set.
+Since undetaking my studies in 2023, I have been privileged to explore and immerse myself in the various domains of IT, allowing me to cultivate my technical skills while igniting my passion in agile development and secure systems design. In 2025, I aim to further hone my abilities in cybersecurity while working on software development projects that challenge and expand my skillset.
 
 ## Projects & Learning
 
 I am constantly building and refining my technical abilities through both coursework and personal projects. In my repository, you will find my previous and current works in project managmenet and UI/UX design in addtion to some of my key projects including:
 
 - **NutriTrack v1** - An early design of a nutritional companion to improve food literacy for a pre-registered user.
+- **NutrTrack v2 - Advanced** - Extends functionality upon NutriTrack v1 by refactoring into MVVM, integrating Google Gemini and integrating a Clinican view.
 
 ### Upcoming
-- **NutrTrack v2 - Advanced** *(in progress)*  - Extends functionality upon NutriTrack v1 by refactoring into MVVM, integrating Google Gemini and integrateing a Clinican view.
+
+- **Website Revamp for Fitness Coaching Services** - A revisioned delivery of a website platform for a notable bodybuilding, lifestyle and transformation coach incorporating a project management and business analysis approach.
 - **WAM Calculator and Course Planner (AI Powered)** - A personalised Android study companion app that tracks university performance (WAM/GPA) and offers AI-powered unit recommendations aligned with your academic interests and career goals.
+- **Personal Portfolio Website** - A full-stack personal portfolio website built using WordPress CMS as a showcase of professional and personal skills and achievements.
 
 More projects coming soon!
 
