@@ -1,0 +1,37 @@
+# Mac system files
+.DS_Store
+
+# Thumbnails or temporary image exports
+*.thumbnail.*
+*~ 
+Thumbs.db
+
+# Backup or autosave files from editors
+*.bak
+*.tmp
+*.swp
+*.autosave
+
+# IDE/editor-specific folders
+.vscode/
+.idea/
+
+# OS-generated files
+ehthumbs.db
+desktop.ini
+
+# Logs or private notes
+*.log
+*.notes
+private_notes.md
+
+# Node projects (if experimenting with code)
+node_modules/
+
+# WordPress dev (optional)
+wp-config.php
+wp-content/uploads/*
+.env
+
+# Ignore zip exports
+*.zip
