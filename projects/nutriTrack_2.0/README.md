@@ -8,6 +8,9 @@
 
 This mobile application is the second iteration of the NutriTrack App, developed to meet the specifications of FIT2081 Assignment 3 at Monash University. It builds upon the functionality and design of the initial version, adding advanced features such as generative AI–powered motivational messaging and enhanced data visualization.
 
+**Known Issues**
+- Coroutine issue when loading data in Clincian view.
+
 ---
 
 ## References & Credit
