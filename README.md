@@ -11,12 +11,13 @@ Since undetaking my studies in 2023, I have been privileged to explore and immer
 
 I am constantly building and refining my technical abilities through both coursework and personal projects. In my repository, you will find my previous and current works in project managmenet and UI/UX design in addtion to some of my key projects including:
 
+- **Website Revamp for Fitness Coaching Service <ins>(in progress)</ins>** - A revisioned delivery of a website platform for a notable bodybuilding, lifestyle and transformation coach incorporating a project management and business analysis approach.
+
 - **NutriTrack v1** - An early design of a nutritional companion to improve food literacy for a pre-registered user.
 - **NutrTrack v2 - Advanced** - Extends functionality upon NutriTrack v1 by refactoring into MVVM, integrating Google Gemini and integrating a Clinican view.
 
 ### Upcoming
 
-- **Website Revamp for Fitness Coaching Services** - A revisioned delivery of a website platform for a notable bodybuilding, lifestyle and transformation coach incorporating a project management and business analysis approach.
 - **WAM Calculator and Course Planner (AI Powered)** - A personalised Android study companion app that tracks university performance (WAM/GPA) and offers AI-powered unit recommendations aligned with your academic interests and career goals.
 - **Personal Portfolio Website** - A full-stack personal portfolio website built using WordPress CMS as a showcase of professional and personal skills and achievements.
 
